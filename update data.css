@@ -27,7 +27,7 @@ button {
   touch-action: manipulation;
   white-space: nowrap;
   will-change: box-shadow,transform;
-  font-size: 2px;
+  font-size: 2vw;
   justify-content: center;
 }
 
