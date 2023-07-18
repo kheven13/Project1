@@ -16,7 +16,7 @@ h1 {
 
 .navbar a {
   float: left;
-  font-size:1vw;
+  font-size:2vw;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -29,7 +29,7 @@ h1 {
 }
 
 .dropdown .dropbtn {
-  font-size: 1vw;  
+  font-size: 2vw;  
   border: none;
   outline: none;
   color: white;
