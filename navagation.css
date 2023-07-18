@@ -5,19 +5,19 @@ height:1000px;
 }
 h1 { 
  text-align: center;
- font-size: 65px; 
+ font-size: 10vw; 
  margin: 5px;
-width: 1500px
+max-width:100%;
 }
 .navbar {
   overflow: hidden;
   background-color: #333;
-  width: 1500px;
+max-width:100%;
 }
 
 .navbar a {
   float: left;
-  font-size: 16px;
+  font-size: 2vw;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -30,7 +30,7 @@ width: 1500px
 }
 
 .dropdown .dropbtn {
-  font-size: 16px;  
+  font-size: 2vw;  
   border: none;
   outline: none;
   color: white;
