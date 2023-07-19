@@ -27,7 +27,7 @@ button {
   touch-action: manipulation;
   white-space: nowrap;
   will-change: box-shadow,transform;
-  font-size: 2vw;
+  font-size: 1vw;
   justify-content: center;
 }
 
@@ -45,7 +45,7 @@ button:active {
   transform: translateY(2px);
 }
 .button-2{
-  font-size: 1vw;
+  font-size: 0.5vw;
 }
 h3 {
   position: relative;
