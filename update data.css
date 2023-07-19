@@ -45,7 +45,7 @@ button:active {
   transform: translateY(2px);
 }
 .button-2{
-  font-size: 0.5vw;
+  font-size: 1vw;
 }
 h3 {
   position: relative;
